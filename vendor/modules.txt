@@ -1,0 +1,2 @@
+# github.com/chai2010/gettext-go v1.0.2
+## explicit
